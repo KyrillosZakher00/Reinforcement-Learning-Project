@@ -1,4 +1,4 @@
-# Reinforcement Project
+# Reinforcement Learning Project
 ## Table of Contents
 - [Overview](#Overview)
 - [Setup](#Setup)
